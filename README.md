@@ -12,7 +12,7 @@ I'm a brazilian who is currently studying web development 💻 and languages �
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/leonardo-fernandes-5768b8a7/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Leo Fernandes | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/leonardo-florentino-fernandes/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Leo Fernandes | LinkedIn" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
