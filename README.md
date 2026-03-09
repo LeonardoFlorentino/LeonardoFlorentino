@@ -1,7 +1,9 @@
 <div align="center">
-  <!-- Greenn-Style Banner (No Name ) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00a86b&height=120&section=header&text=%3C%20Software%20Engineer%20%2F%3E%20%20%20%20%7B%20Full%20Stack%20%7D&fontSize=35&animation=fadeIn&fontAlignY=45&fontColor=ffffff" width="100%" />
+  <!-- Greenn-Style Banner (Simplified Text for Guaranteed Rendering) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00a86b&height=120&section=header&text=Software%20Engineer%20%20|%20%20Full%20Stack%20Developer&fontSize=35&animation=fadeIn&fontAlignY=45&fontColor=ffffff" width="100%" />
 </div>
+
+
 
 <div align="center">
   <h3>🌿 Crafting Digital Excellence with Laravel & React</h3>
@@ -60,10 +62,6 @@ I am a **Software Engineer** passionate about transforming complex problems into
 
 ### 📊 Insights & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoFlorentino&show_icons=true&theme=transparent&title_color=00a86b&icon_color=00a86b&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFlorentino&layout=compact&theme=transparent&title_color=00a86b&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180em" />
-</div>
 
   
 
