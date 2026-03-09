@@ -1,59 +1,86 @@
+<div align="center">
+  <!-- Greenn-Style Banner (No Name ) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00a86b&height=120&section=header&text=%3C%20Software%20Engineer%20%2F%3E%20%20%20%20%7B%20Full%20Stack%20%7D&fontSize=35&animation=fadeIn&fontAlignY=45&fontColor=ffffff" width="100%" />
+</div>
+
+<div align="center">
+  <h3>🌿 Crafting Digital Excellence with Laravel & React</h3>
+  <p><i>"Just like in animation, great software engineering lies in the fluidity of details."</i></p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonardo-florentino-fernandes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:leonardo.ff.21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/LeonardoFlorentino?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+  
 
 
-<h3 align="center">
-  Hi there, I'm <b>Leo</b>  👋
-</h3>
+---
 
-<h2 align="center">
-I'm a brazilian who is currently studying web development 💻 and languages 🦉.
-</h2> 
+### ⚡ About Me
 
+I am a **Software Engineer** passionate about transforming complex problems into fluid interfaces and robust backends. With over **3 years of professional experience** in the **PHP/Laravel** and **JavaScript/React** ecosystems, I focus on delivering clean, testable, and results-oriented code.
 
+- 🔭 **Current Highlight:** Developing the [Greenn Challenge](https://github.com/LeonardoFlorentino/GreennChallenge ) — A high-complexity technical refactor focused on UI stability.
+- 🎓 **Education:** Information Systems Analysis and Development (6th Semester - UNIASSELVI).
+- 🌍 **Languages:** Portuguese (Native) | English (Proficient C1/C2 - EF SET).
 
-### 🤝 Connect with me:
+---
 
-<a href="https://www.linkedin.com/in/leonardo-florentino-fernandes/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Leo Fernandes | LinkedIn" width="21px"/></a>
+### 🛠️ Tech Stack & Toolbox
 
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<div align="center">
 
-## 🔭 I'm currently working on
+| **Frontend & Mobile** | **Backend & Database** | **DevOps & Tools** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,styledcomponents" /> | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,elasticsearch" /> | <img src="https://skillicons.dev/icons?i=git,github,yarn,npm,vite,vscode,ps" /> |
 
-- Exercises for programming
-- Some personal projects
+</div>
 
-## 🌱 I'm currently learning
+---
 
-- 📱 React Native
-- React
-- JavasScript
-- Redux 
-- CSS/ Bootstrap
+### 🏆 Strategic Project: Greenn Challenge
+*Full Stack Architecture Diagnosis and Refactor*
 
-## 💼 Technical Skills
+> "I identified critical rendering flaws on the official Greenn website and developed a deterministic solution to ensure visual and logical system integrity."
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+- **Stack:** React, TypeScript, Laravel, Vite.
+- **Key Contribution:** Implementation of immutable state control and rotation algorithms without data duplication.
+- [**View Project Details →**](https://github.com/LeonardoFlorentino/GreennChallenge )
 
+---
 
+### 📊 Insights & Activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoFlorentino&show_icons=true&theme=transparent&title_color=00a86b&icon_color=00a86b&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFlorentino&layout=compact&theme=transparent&title_color=00a86b&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180em" />
+</div>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-
-
-
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+  
 
 
-## 📈 GitHub Stats 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoFlorentino&theme=transparent&hide_border=true&stroke=00a86b&ring=00a86b&fire=00a86b&currStreakLabel=00a86b" height="180em" />
+</div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoFlorentino)](https://github.com/yushi1007)
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFlorentino&layout=compact)](https://github.com/LeonardoFlorentino)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=LeonardoFlorentino.LeonardoFlorentino)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeonardoFlorentino&color=00a86b&style=flat-square&label=PROFILE+VIEWS" />
+</div>
+
+---
+
+<div align="center">
+  <sub>"Engineering is not just about code, it's about solving problems with elegance."</sub>
+</div>
